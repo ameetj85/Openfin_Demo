@@ -4,6 +4,7 @@
 npm install
 
 # Run node to start up app
+npm build
 node server.js
 
 # Run openfin cli command 
