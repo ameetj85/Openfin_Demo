@@ -1,5 +1,8 @@
 # Openfin_Demo
 
+# Install OpenFin CLI 
+npm install -g openfin-cli
+
 # Download code and run npm for node_modules
 npm install
 
